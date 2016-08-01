@@ -1,5 +1,5 @@
 {
-  "name": "interact-cli-plugins-build-collate",
+  "name": "ntract-cli-plugins-build-collate",
   "license": "GPL-3",
   "main": [
     "index.js"
